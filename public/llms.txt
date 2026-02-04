@@ -1,0 +1,89 @@
+# GadgetHub — Generative Engine Optimization Map
+
+> A מסחר אלקטרוני business.
+
+---
+
+## Pages
+
+### Home
+https://gadgethub-d717a902.zappy5.app
+
+### About
+https://gadgethub-d717a902.zappy5.app/about
+
+### Collections
+https://gadgethub-d717a902.zappy5.app/collections
+
+### Contact
+https://gadgethub-d717a902.zappy5.app/contact
+
+### Products
+https://gadgethub-d717a902.zappy5.app/products
+המוצרים שלנו - GadgetHub
+
+### Cart
+https://gadgethub-d717a902.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://gadgethub-d717a902.zappy5.app/checkout
+תשלום
+
+### Login
+https://gadgethub-d717a902.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://gadgethub-d717a902.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://gadgethub-d717a902.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://gadgethub-d717a902.zappy5.app/product/:slug
+פרטי המוצר - GadgetHub
+
+### Category
+https://gadgethub-d717a902.zappy5.app/category/:slug
+מוצרים - GadgetHub
+
+## Legal & Policy
+
+### Privacy Policy
+https://gadgethub-d717a902.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://gadgethub-d717a902.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://gadgethub-d717a902.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About GadgetHub
+GadgetHub is a business in the מסחר אלקטרוני industry.
+
+## Target Audience
+- חובבי טכנולוגיה
+- מאמצים מוקדמים
+- קוני מתנות
+- קונים מקוונים
+- מחנכים חדשניים
+
+## Industry
+מסחר אלקטרוני
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://gadgethub-d717a902.zappy5.app/sitemap.xml
+- **Robots.txt**: https://gadgethub-d717a902.zappy5.app/robots.txt
